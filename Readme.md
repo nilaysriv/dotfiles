@@ -43,3 +43,6 @@ sudo dnf install akmod-nvidia xorg-x11-drv-nvidia-cuda
 
 ## Screenshots
 ![Desktop](https://github.com/nilaysriv/dotfiles/blob/main/Screenshots/Desktop.png)
+![Dolphin](https://github.com/nilaysriv/dotfiles/blob/main/Screenshots/Dolphin.png)
+![Konsole](https://github.com/nilaysriv/dotfiles/blob/main/Screenshots/Fastfetch.png)
+
