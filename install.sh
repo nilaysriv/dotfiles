@@ -46,5 +46,17 @@ pip install konsave
 konsave -i kde/*.knsv
 konsave -a my_setup
 
+# 7. VS Code Config
+mkdir -p ~/.config/Code/User/
+
+# Create the links
+ln -sf ~/dotfiles/vscode/.config/Code/User/settings.json ~/.config/Code/User/settings.json
+ln -sf ~/dotfiles/vscode/.config/Code/User/keybindings.json ~/.config/Code/User/keybindings.json
+
+if [ -d ~/dotfiles/vscode/.config/Code/User/snippets ]; then
+    ln -sf ~/dotfiles/vscode/.config/Code/User/snippets ~/.config/Code/User/snippets
+fi
+
+# Reboot
 echo "Setup complete! Rebooting."
 reboot

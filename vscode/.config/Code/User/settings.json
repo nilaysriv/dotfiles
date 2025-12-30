@@ -1,0 +1,21 @@
+{
+    "workbench.productIconTheme": "bongocat",
+    "mssql.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "52B743E5-B6C4-49D7-B8AC-0AF77DC5D1CC"
+        }
+    ],
+    "mssql.connections": [],
+    "workbench.colorCustomizations": {
+        },
+    "terminal.integrated.gpuAcceleration": "off","window.systemColorTheme": "dark","window.autoDetectColorScheme": false,"window.titleBarStyle": "custom",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.controlsStyle": "custom",
+    "workbench.startupEditor": "none",
+    "python.analysis.typeCheckingMode": "standard",
+    "glassit.alpha": 220,
+    "git.autofetch": true,
+    "python.createEnvironment.trigger": "off",
+    "workbench.colorTheme": "Just Black"
+}
