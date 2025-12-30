@@ -1,0 +1,4 @@
+jhyub/supergfxctl-plasmoid
+lizardbyte/beta
+lukenukem/asus-linux
+phracek/PyCharm
