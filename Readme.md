@@ -42,4 +42,4 @@ sudo dnf install akmod-nvidia xorg-x11-drv-nvidia-cuda
 ```
 
 ## Screenshots
-![Desktop]([https://github.com/nilaysriv/TerminalGPT/raw/main/Screenshots/Screenshot_20251229_122103-1.png](https://github.com/nilaysriv/dotfiles/blob/main/Screenshots/Desktop.png))
+![Desktop](https://github.com/nilaysriv/dotfiles/blob/main/Screenshots/Desktop.png)
